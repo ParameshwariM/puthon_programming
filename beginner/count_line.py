@@ -1,3 +1,3 @@
 word=raw_input("")
-x=word.count('.')
+x=word.count('.')+1
 print(x)
